@@ -18,3 +18,7 @@ exclude:
   - node_modules
   - Gemfile
   - Gemfile.lock
+
+plugins:
+  - jekyll-seo-tag
+
