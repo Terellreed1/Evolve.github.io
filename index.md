@@ -4,8 +4,8 @@ title: "Home"
 permalink: /
 ---
 
-
-<html lang="en"><head>
+<html lang="en">
+<head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Evolve Connection Coaching offers restorative practices to transform relationships and communication. Book coaching sessions, workshops, and more.">
@@ -13,8 +13,8 @@ permalink: /
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
   <link rel="icon" href="favicon.ico" type="image/x-icon">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js" defer=""></script>
-  <script src="script.js" defer=""></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js" defer></script>
+  <script src="script.js" defer></script>
   
   <style>
     /* Import Fonts */
