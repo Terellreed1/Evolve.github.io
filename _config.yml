@@ -1,0 +1,20 @@
+title: "Evolve Connection Coaching"
+description: "Website managed through Siteleaf CMS"
+baseurl: ""
+url: "https://evolve.github.io"
+markdown: kramdown
+theme: minima
+collections:
+  pages:
+    output: true
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
+exclude:
+  - README.md
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
